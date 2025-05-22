@@ -43,6 +43,8 @@ My main areas of interest for this dashboard were:
 - The age distribution of employees by department,
 as well as anymore visualisations that the client may find useful.
 
+![HR dashboard] (https://github.com/alexcurnow96/HR-Attrition-Project/Static/Images/HRdashboard.jpg)
+
 The third phase switched to delivering advice based off of my findings. My approach to this phase was a presentation style info deck that the client could access without needing a presentation. This would save time for both my team and the client, and make actioning my advice easier. The info deck consisted of my findings and why these were relevant, as well as my conclusions and the 4 key areas I felt the client needed to work on. These included early tenure, mid/long term employees, performance grading, and frequency of training. 
 
 ## Outcomes
